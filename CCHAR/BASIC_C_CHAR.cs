@@ -5,7 +5,7 @@ namespace test
     class PAC_desarrollo_UF1
     {
         /**
-        Programa realizado por MARIA DEL MAR DOMINGUEZ DUARTE 
+        Programa realizado  
         para la pac de desarrollo UF1 de la asignatura PROGRAMACIÓN A.
         La programacion es secuencial.
         */
