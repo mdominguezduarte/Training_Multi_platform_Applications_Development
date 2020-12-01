@@ -16,7 +16,7 @@ INTERNATIONAL:
 
 PROFESSIONAL MODULES IN THE DIPLOMA ROYAL DECREE 
 
-Computer Systems 
+Computer Systems
 Databases 
 Programming
 Markup Language and Information Management Systems 
